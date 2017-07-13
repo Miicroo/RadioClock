@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text resources -->
+    <string name="alarmExists">Alarm is set at:</string>
+	<string name="alarmFired">Alarm fired! Playing channel:</string>
+    <string name="app_name">RadioClock</string>
+    <string name="loading">Loading system&#8230;</string>
+	<string name="next">Next</string>
+    <string name="removeButton">Remove alarm</string>
+	<string name="setAlarm">Set alarm!</string>
+	<string name="volumeLabel">Volume:</string>
+	
+	<!-- Text constants -->
+    <string name="ALARMCHANNEL">ALARMCHANNEL</string>
+    <string name="ALARMLINK">ALARMLINK</string>
+    <string name="ALARMTIME">ALARMTIME</string>
+    <string name="ALARMVOLUME">ALARMVOLUME</string>
+    <string name="M3U_PAGE">http://www.sverigesradio.se/sida/gruppsida.aspx?programid=3756&amp;grupp=10632&amp;artikel=5685687</string>
+	<string name="STORAGE">CHANNELSTORAGE</string>
+	<string name="STORAGE_UPDATE">CHANNELSTORAGE_LAST_UPDATE</string>
+	<string name="STREAMING_CHANNEL">STREAMING_CHANNEL</string>
+	<string name="STREAMING_LINK">STREAMING_LINK</string>
+	<string name="STREAMING_VOLUME">STREAMING_VOLUME</string>
+</resources>
